@@ -1,0 +1,38 @@
+<div class="m-index">
+	<div class="m-index-container"></div>
+  
+  <footer>
+  	<ul>
+  		<li action-type="switch.view" data-tag="home">
+  			<i>
+  				<img src="../../../images/home-2.png"/>
+  			</i>
+  			<b class="active">首页</b>
+  		</li>
+  		<li action-type="switch.view" data-tag="jufl">
+  			<i>
+  				<img src="../../../images/jufl1-1.png"/>
+  			</i>
+  			<b>巨返利</b>
+  		</li>
+  		<li action-type="switch.view" data-tag="taobao">
+  			<i>
+  				<img src="../../../images/tao-1.png"/>
+  			</i>
+  			<b>淘宝返利</b>
+  		</li>
+  		<li action-type="switch.view" data-tag="shop">
+  			<i>
+  				<img src="../../../images/shop-1.png"/>
+  			</i>
+  			<b>商城返利</b>
+  		</li>
+  		<li action-type="switch.view" data-tag="myqu">
+  			<i>
+  				<img src="../../../images/id-1.png"/>
+  			</i>
+  			<b>我趣</b>
+  		</li>
+  	</ul>
+  </footer>
+</div>

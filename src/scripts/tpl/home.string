@@ -1,0 +1,207 @@
+<header>
+  	<ul>
+  		<li>
+  			<div>
+  				<img src="../../../images/logo.png"/>
+  			</div>
+  		</li>
+  		<li>
+  			<div>
+  				<i class="yo-ico">&#x343b;</i>
+  				<i>搜淘宝商品拿返利,&nbsp;&nbsp;搜啥都有返利</i>
+  			</div>
+  		</li>
+  		<li>
+  			<img src="../../../images/sao.png"/>
+  		</li>
+  	</ul>
+  </header>
+  <nav>
+  	<ul id="index-nav">
+  		<li class="active" action-type="switch.swiper">全部分类</li>
+  		<li action-type="switch.swiper">今日上新</li>
+  		<li action-type="switch.swiper">家居</li>
+  		<li action-type="switch.swiper">食品</li>
+  		<li action-type="switch.swiper">服饰</li>
+  		<li action-type="switch.swiper">美妆</li>
+  		<li action-type="switch.swiper">数码家电</li>
+  		<li action-type="switch.swiper">母婴</li>
+  		<li action-type="switch.swiper">鞋包配饰</li>
+  		<li action-type="switch.swiper">文体其他</li>
+  		<li action-type="switch.swiper">明日预告</li>
+  	</ul>
+  </nav>
+  <section id="index-scroll" spa-widget="scroll"  data-scroll-id="indexScroll">
+  	<div class="swiper-container" id="containerSwiper">
+			 <div class="swiper-wrapper">
+			    <div class="swiper-slide">
+			      <!------1-------------------->
+						  		<div class="swiper-container" id="indexSwiper">
+								    <div class="swiper-wrapper">
+								        <div class="swiper-slide">
+								        	<img src="../../../images/banner.png"/>
+								        </div>
+								        <div class="swiper-slide">
+								        	<img src="../../../images/banner2.png"/>
+								        </div>
+								    </div>
+								    <!-- 如果需要分页器 -->
+								    <div class="swiper-pagination"></div>
+									</div>	
+							  	<div id="search-list">
+								  	<ul>
+								  		<li>
+								  			<i>
+								  				<img src="../../../images/list1.png"/>
+								  			</i>
+								  			<b>淘宝返利</b>
+								  		</li>
+								  		<li>
+								  			<i>
+								  				<img src="../../../images/list2.png"/>
+								  			</i>
+								  			<b>巨返利</b>
+								  		</li>
+								  		<li>
+								  			<i>
+								  				<img src="../../../images/list3.png"/>
+								  			</i>
+								  			<b>9块9</b>
+								  		</li>
+								  		<li>
+								  			<i>
+								  				<img src="../../../images/list4.png"/>
+								  			</i>
+								  			<b>聚集分宝</b>
+								  		</li>
+								  	</ul>
+								  	<ul>
+								  		<li>
+								  			<i>
+								  				<img src="../../../images/list5.png"/>
+								  			</i>
+								  			<b>商城返利</b>
+								  		</li>
+								  		<li>
+								  			<i>
+								  				<img src="../../../images/list6.png"/>
+								  			</i>
+								  			<b>充值返利</b>
+								  		</li>
+								  		<li>
+								  			<i>
+								  				<img src="../../../images/list7.png"/>
+								  			</i>
+								  			<b>签到赚钱</b>
+								  		</li>
+								  		<li>
+								  			<i>
+								  				<img src="../../../images/list8.png"/>
+								  			</i>
+								  			<b>我趣</b>
+								  		</li>
+								  	</ul>
+							  	</div>
+								  <ul  id="inform">
+										  <li>
+										  	<img src="../../../images/inform.png"/>
+										  </li>
+										  <li>
+										  	通过利趣网搜索购买淘宝商品,&nbsp;件件有返利
+											</li>
+									</ul>
+									<div id="exempt">
+										<div class="exempt-left">
+												<img src="../../../images/jufanli.jpg"/>
+										</div>
+										<div class="exempt-right">
+													<div class="exempt-right-top" >
+															<img src="../../../images/taobao.jpg"/>
+													</div>
+													<div class="exempt-right-bottom">
+															<img src="../../../images/shangcheng.jpg"/>
+													</div>
+										</div>
+									</div>
+									<div id="new-pic">
+										<img src="../../../images/pen.jpg"/>
+										<ul>
+											<li>多款绿植盆栽办公室盆景</li>
+											<li><span>¥</span><span>15.80</span><span>¥29.00</span></li>
+											<li><span>返15.80</span>
+												<span>
+													<img src="../../../images/fanli100.jpg"/>
+												</span>
+											</li>
+											<li>19055人参与|0天12小时34分3秒</li>
+										</ul>
+									</div>
+									<div id="shop-list">
+										<ul class="sl-pro">
+											<li>
+												<i>
+													<img src="../../../images/s-2.jpg"/>
+												</i>
+												<div class="jiage">
+													<i>【领卷】家用原汁机</i>
+													<i>
+														<span>
+																¥69.00
+															</span>
+															<span>
+																4216人在抢
+															</span>
+													</i>
+													<i>
+															<span>返15.80</span>
+															<span>
+																<img src="../../../images/fanli.jpg"/>
+															</span>
+															<span>
+																<img src="../../../images/manyi.png"/>
+															</span>
+													</i>
+												</div>
+													
+												
+											</li>
+											<li></li>
+											<li>
+												<i>
+													<img src="../../../images/s-1.jpg"/>
+												</i>
+												<div class="jiage">
+														<i>【领卷】买1送1夏季</i>
+														<i>
+															<span>
+																¥12.90
+															</span>
+															<span>
+																17361人在抢
+															</span>
+														</i>
+														<i>
+															<span>返2.32</span>
+															<span>
+																<img src="../../../images/fanli.jpg"/>
+															</span>
+															<span>
+																<img src="../../../images/manyi.png"/>
+															</span>
+														</i>
+													
+												</div>
+												
+											</li>
+										</ul>
+									</div>
+					  	<!-------------->
+			     </div>
+			     <div class="swiper-slide">222</div>
+			     <div class="swiper-slide">333</div>
+			  </div>
+			   
+		</div>	
+  </section>	
+  		
+  
